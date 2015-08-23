@@ -18,3 +18,6 @@ IsPrime checks if candidate is a prime number.
 ## Documentation
 
 [![API documentation](https://godoc.org/github.com/checonikee/prime?status.svg)](https://godoc.org/github.com/checonikee/prime)
+
+## Test coverage
+[![Coverage status](https://coveralls.io/repos/checonikee/prime/badge.svg)](https://coveralls.io/r/checonikee/prime)
